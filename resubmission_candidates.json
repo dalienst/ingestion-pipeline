@@ -1,0 +1,26 @@
+[
+    {
+        "claim_id": "A123",
+        "resubmission_reason": "Missing modifier",
+        "source_system": "alpha",
+        "recommended_changes": "Review and correct 'Missing modifier' and resubmit"
+    },
+    {
+        "claim_id": "A124",
+        "resubmission_reason": "Incorrect NPI",
+        "source_system": "alpha",
+        "recommended_changes": "Review and correct 'Incorrect NPI' and resubmit"
+    },
+    {
+        "claim_id": "A127",
+        "resubmission_reason": "Prior auth required",
+        "source_system": "alpha",
+        "recommended_changes": "Review and correct 'Prior auth required' and resubmit"
+    },
+    {
+        "claim_id": "B988",
+        "resubmission_reason": "Missing modifier",
+        "source_system": "beta",
+        "recommended_changes": "Review and correct 'Missing modifier' and resubmit"
+    }
+]
